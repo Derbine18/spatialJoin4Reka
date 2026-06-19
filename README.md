@@ -1,4 +1,4 @@
-# spatialJoin4Reka
+# ajout automatique de la région
 cheminement étape par étape : 
 - ouvrir QGIS et sa console python
 - importer le fichier spatialJoin.py dans QGIS
